@@ -1,0 +1,83 @@
+.jumbotron{
+    padding-top: 8rem; 
+    background-color: #000b76;
+}
+
+#fotoatas {
+    font: Helvetica;
+    background-image:url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    filter: alpha(opacity=30); 
+    padding-top: 360px;
+    max-width: 1380px;
+}
+
+#home {
+    background-color: rgb(181, 213, 231);
+}
+
+#about {
+    background-color: rgb(205, 201, 248);
+}
+#hardskill{
+    background-color: rgb(205, 201, 248);  
+}
+
+#contact{
+    background-color: rgb(205, 201, 248);
+}
+
+section{
+    padding-top: 6rem;
+}
+
+#headeratas {
+    background-color: rgb(93, 58, 247);
+}
+
+#container1{
+        font: Helvetica;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.7;
+        filter: alpha(opacity=30); 
+        padding-top: 230px;
+        max-width: 1360px;
+}
+
+#container2 {
+    padding-top : 60px;
+}
+
+.col-md-8{
+    font-size: 15px;
+    margin-left: 185px;
+    padding-top: 50px;
+}
+.jumbotron {
+    background-color: rgb(205, 201, 248);
+}
+
+.rounded-circle{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 250px;
+}
+#button{
+    margin-top: 10px;
+    background-color: #000b76;
+}
+
+#row1 {
+    padding-top: 80px;
+}
+#isibio {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffff;
+    background-size: cover;
+    opacity: 0.9;
+    padding-top: 10px;
+}
+
